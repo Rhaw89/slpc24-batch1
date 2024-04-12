@@ -8,13 +8,13 @@ public class Snake {
 
     
         public static void main(String[] args) {
-           // long x =10;
+           /*/ long x =10;
            // long y =(x=5);
            int y=1;
             boolean x = true || (y<4);
            // y *=x;   
           //  System.out.println(y);
-          System.out.println("Input amount to load");
+          System.out.println("Input amount to load")
           Scanner intput = new Scanner(System.in);
           int inputload = intput.nextInt();
           int load = (inputload>100) ? (inputload*3) :0;
@@ -25,4 +25,12 @@ public class Snake {
 
                      //short e = (short)1921222;
                       //System.out.println(e);
+                    
+             */
+            int houraDay=14;
+            if (houraDay < 11)
+            System.out.println("good morning!");
+             
+
+
             } }
